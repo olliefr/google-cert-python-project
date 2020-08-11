@@ -1,6 +1,6 @@
-# 'Scale and convert images using PIL'
+# Week 1: 'Scale and convert images using PIL'
 
-A final project for 'Automating Real-World Tasks with Python' course.
+A project for Week 1 of 'Automating Real-World Tasks with Python' course.
 
 **Oliver Frolovs, 2020**
 

@@ -6,6 +6,14 @@ A project for Week 1 of 'Automating Real-World Tasks with Python' course.
 
 This is free and unencumbered software released into the public domain.
 
+## Problem definition
+
+This scripts transforms a bunch of image files in a given directory in the following way:
+
+* rotate by 90 degrees clockwise
+* resize to 128x128
+* save in a different image format
+
 ## Environment
 
 To set up the development environment, I created the project on the GitHub first. I asked it to add a `.gitignore` for Python and a `README` file. 
@@ -62,6 +70,6 @@ Nevertheless, I had successfully completed the task.
 
 If it were a *real* project, rather than a one-off data conversion script, I would have added unit tests, and set up *Continuous Integration* and *Continious Deployment* facilities.
 
-&mdash; Oliver Frolovs, 2020
+&mdash; Oliver Frolovs
 
 

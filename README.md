@@ -6,7 +6,7 @@ A project for Week 1 of 'Automating Real-World Tasks with Python' course.
 
 This is free and unencumbered software released into the public domain.
 
-## Problem definition
+## Problem statement
 
 This scripts transforms a bunch of image files in a given directory in the following way:
 

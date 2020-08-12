@@ -1,4 +1,4 @@
-# Week 1: 'Scale and convert images using PIL'
+# Scale and convert a bunch of images using PIL
 
 A project for Week 1 of 'Automating Real-World Tasks with Python' course.
 
